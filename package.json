@@ -1,10 +1,16 @@
 {
   "name": "react-library-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Boilerplate for creating new React libraries.",
   "author": "Damian Regan <polycode@gmail.com>",
   "license": "MIT",
-  "keywords": [],
+  "keywords": [
+    "react"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dvregan/react-library-starter"
+  },
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {
