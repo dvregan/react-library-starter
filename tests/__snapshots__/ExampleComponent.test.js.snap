@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ExampleComponent renders the same snapshot 1`] = `
+<div>
+  <h1>
+    Example Component
+  </h1>
+  <p>
+    This is an example component, edit 
+    <code>
+      src/ExampleComponent.js
+    </code>
+     to get started.
+  </p>
+</div>
+`;
